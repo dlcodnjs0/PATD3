@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+saved_models/
+
+.idea/
+.vscode/
+.DS_Store
+~$*.xlsx
